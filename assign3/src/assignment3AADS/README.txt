@@ -1,0 +1,1 @@
+eulerPath() for MyUndirectGraph.java should be ran as a last method as it modifies original list.
